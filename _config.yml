@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "en-GB"
+title                    : "marsblog"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Martin Cosgrave"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # "https://marsbard.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-gh_repo                  :
+gh_repo                  : 
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -35,7 +35,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "marsbard"
 facebook:
   username               :
   app_id                 :
@@ -61,10 +61,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Martin Cosgrave"
+  avatar           : "https://avatars1.githubusercontent.com/u/197057?v=3&s=160"
+  bio              : "Downward facing derp."
+  location         : "Malaga, Spain"
   email            :
   uri              :
   bitbucket        :
@@ -73,15 +73,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "marsbard"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : #"http://stackoverflow.com/jobs/cv/employer/244105" # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
   twitter          :
